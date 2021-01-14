@@ -1,0 +1,17 @@
+
+kpython:S117"TRename this parameter "cardSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë²¹˜
+ipython:S117"RRename this parameter "cardId" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÿþ€
+bpython:S100"KRename method "getCard" to match the regular expression ^[a-z_][a-z0-9_]*$.(ùÿþ€
+npython:S116"RRename this field "__maxValue" to match the regular expression ^[_a-z][_a-z0-9]*$.(’â¬‹ýÿÿÿÿ
+4python:S2772"Remove this unneeded "pass".(ã‘Û¾
+ipython:S116
+"RRename this field "__deckSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(À§èÑ
+kpython:S117"TRename this parameter "maxValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë²¹˜
+jpython:S116"SRename this field "__numberSet" to match the regular expression ^[_a-z][_a-z0-9]*$.(èÆÒØ
+npython:S116	"RRename this field "__cardSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÅˆïÒÿÿÿÿÿ
+lpython:S100"PRename method "getCardCount" to match the regular expression ^[a-z_][a-z0-9_]*$.(ºßÒˆùÿÿÿÿ
+4python:S2772"Remove this unneeded "pass".(ã‘Û¾
+_python:S1763"GDelete this unreachable code or refactor the code to make it reachable.(ã‘Û¾
+kpython:S117"TRename this parameter "deckSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë²¹˜
+gpython:S100"PRename method "populateDeck" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÒçÊö
+bpython:S100"KRename method "getDeck" to match the regular expression ^[a-z_][a-z0-9_]*$.(¨‘µß

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="291b43ec-1446-443d-84f1-163afa62b6e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Gradient/BlackWhite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gradient/Gold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gradient/GradientDictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gradient/GradientInterface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gradient/Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gradient/USA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Gradient/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Images/Egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fractals/Egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fractals/FractalInterface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/FractalFactory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/GradientFactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/interactive.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo/interactive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Images/juliaImages.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Images/juliaImages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fractals/Julia.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/fractals/Julia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fractals/Mandelbrot.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/fractals/Mandelbrot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/FractalSelection.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/FractalSelection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/Gradient.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gradient/Default.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1605314381" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k7PYPnI0SwoYtfzjEv8AzGKKJa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/cs1440-helms-tanner-assn4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\cs1440-helms-tanner-assn4\src\Gradient" />
+      <recent name="C:\cs1440-helms-tanner-assn4\src\fractals" />
+      <recent name="C:\cs1440-helms-tanner-assn4\src\utils" />
+      <recent name="C:\cs1440-helms-tanner-assn4\src\Images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="interactive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs1440-helms-tanner-assn4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/interactive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="julia_fractal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs1440-helms-tanner-assn4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/julia_fractal.py" />
+      <option name="PARAMETERS" value="fulljulia leaf" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs1440-helms-tanner-assn4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="../data/leaf.frac" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runTests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cs1440-helms-tanner-assn4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/runTests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for TestJulia.TestJulia" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="cs1440-helms-tanner-assn4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestJulia.TestJulia&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.julia_fractal" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.interactive" />
+      <item itemvalue="Python.runTests" />
+      <item itemvalue="Python tests.Unittests for TestJulia.TestJulia" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.runTests" />
+        <item itemvalue="Python.interactive" />
+        <item itemvalue="Python tests.Unittests for TestJulia.TestJulia" />
+        <item itemvalue="Python.julia_fractal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="291b43ec-1446-443d-84f1-163afa62b6e9" name="Default Changelist" comment="" />
+      <created>1605048703243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605048703243</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Config data">
+      <created>1605050351917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605050351917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ImagePainter">
+      <created>1605051497007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605051497007</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed some global vars">
+      <created>1605051936103</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605051936103</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cleaned up a bunch of code">
+      <created>1605054270019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605054270019</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cleaned up a bunch of code">
+      <created>1605116767548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605116767548</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Made a TON of changes">
+      <created>1605223265472</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605223265472</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed so that project matches the rubric">
+      <created>1605224473567</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605224473567</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed so that project matches the rubric">
+      <created>1605231831092</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605231831092</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed so that project matches the rubric">
+      <created>1605233775012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605233775012</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added some finishing touches. Almost done :)">
+      <created>1605243884184</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605243884184</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Finished the Project">
+      <created>1605299391338</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605299391338</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Config data" />
+    <MESSAGE value="ImagePainter" />
+    <MESSAGE value="Fixed some global vars" />
+    <MESSAGE value="Cleaned up a bunch of code" />
+    <MESSAGE value="Made a TON of changes" />
+    <MESSAGE value="Fixed so that project matches the rubric" />
+    <MESSAGE value="Added some finishing touches. Almost done :)" />
+    <MESSAGE value="Finished the Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the Project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1605221908995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605221908995" />
+    <state x="2683" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607099463787">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2683" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099463787" />
+    <state x="763" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605225993174" />
+    <state x="2624" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607041372503">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2624" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607041372503" />
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1607027908362">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607027908362" />
+    <state x="803" y="410" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1605223944009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="410" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605223944009" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1607100377117">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607100377117" />
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605052905152" />
+    <state width="1877" height="439" key="GridCell.Tab.0.bottom" timestamp="1607110812218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="439" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607110812218" />
+    <state width="1877" height="439" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099910841" />
+    <state width="1877" height="255" key="GridCell.Tab.0.bottom/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605314496600" />
+    <state width="1877" height="439" key="GridCell.Tab.0.center" timestamp="1607110812218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="439" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607110812218" />
+    <state width="1877" height="439" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099910840" />
+    <state width="1877" height="255" key="GridCell.Tab.0.center/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605314496600" />
+    <state width="1877" height="439" key="GridCell.Tab.0.left" timestamp="1607110812218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="439" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607110812218" />
+    <state width="1877" height="439" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099910840" />
+    <state width="1877" height="255" key="GridCell.Tab.0.left/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605314496600" />
+    <state width="1877" height="439" key="GridCell.Tab.0.right" timestamp="1607110812218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="439" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607110812218" />
+    <state width="1877" height="439" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099910841" />
+    <state width="1877" height="255" key="GridCell.Tab.0.right/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605314496600" />
+    <state width="1877" height="264" key="GridCell.Tab.1.bottom" timestamp="1607110812216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607110812216" />
+    <state width="1877" height="264" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099770426" />
+    <state width="1877" height="154" key="GridCell.Tab.1.bottom/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605231875050" />
+    <state width="1877" height="264" key="GridCell.Tab.1.center" timestamp="1607110812216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607110812216" />
+    <state width="1877" height="264" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099770426" />
+    <state width="1877" height="154" key="GridCell.Tab.1.center/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605231875050" />
+    <state width="1877" height="264" key="GridCell.Tab.1.left" timestamp="1607110812216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607110812216" />
+    <state width="1877" height="264" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099770426" />
+    <state width="1877" height="154" key="GridCell.Tab.1.left/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605231875050" />
+    <state width="1877" height="264" key="GridCell.Tab.1.right" timestamp="1607110812216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="264" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607110812216" />
+    <state width="1877" height="264" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607099770426" />
+    <state width="1877" height="154" key="GridCell.Tab.1.right/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605231875050" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605299392560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.11.1920.1040/0.0.1920.1040/-1920.11.1920.1040@0.0.1920.1040" timestamp="1605299392560" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/main.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/main.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

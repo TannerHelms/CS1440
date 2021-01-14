@@ -1,0 +1,38 @@
+
+[============]
+[Final Report]
+[============]
+
+Statistics over all industries in 2019:
+=========================================================
+Number of FIPS areas in report       2
+
+Total annual wages                   $76,091,510,618
+Area with maximum annual wages       District of Columbia
+Maximum reported wage                $76,083,943,531
+
+Total number of establishments       40,713
+Area with most establishments        District of Columbia
+Maximum # of establishments          40,698
+
+Total annual employment level        776,041
+Area with maximum employment         District of Columbia
+Maximum reported employment level    775,978
+
+
+Statistics over the software publishing industry in 2019:
+=========================================================
+Number of FIPS areas in report       1
+
+Total annual wages                   $272,705,257
+Area with maximum annual wages       District of Columbia
+Maximum reported wage                $272,705,257
+
+Total number of establishments       163
+Area with most establishments        District of Columbia
+Maximum # of establishments          163
+
+Total annual employment level        1,523
+Area with maximum employment         District of Columbia
+Maximum reported employment level    1,523
+

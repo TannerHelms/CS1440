@@ -1,0 +1,8 @@
+
+kpython:S1192"NDefine a constant instead of duplicating this literal "Test option E" 3 times.(øŒ‘øÿÿÿÿÿ
+epython:S1192"NDefine a constant instead of duplicating this literal "Test option D" 3 times.(“¥+
+kpython:S1192"NDefine a constant instead of duplicating this literal "Test option B" 3 times.(Ÿªü®ÿÿÿÿÿ
+rpython:S117+"[Rename this local variable "MenuOption" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïõ¡×
+fpython:S1192"NDefine a constant instead of duplicating this literal "Test option A" 4 times.(§µõè
+fpython:S1192"NDefine a constant instead of duplicating this literal "Test option C" 3 times.(ŸõĞÇ
+wpython:S117C"[Rename this local variable "MenuOption" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü“‹Ïıÿÿÿÿ

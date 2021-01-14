@@ -1,0 +1,29 @@
+
+;python:S2772A"Remove this unneeded "pass".(ã‘Û¾8¤Ò¢­×.
+zpython:S117"]Rename this local variable "outputStream" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀŞÛğùÿÿÿÿ
+gpython:S117{"PRename this parameter "minV" to match the regular expression ^[_a-z][a-z0-9_]*$.(×í–ë
+vpython:S117F"ZRename this local variable "maxNumber" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒ¶¤ şÿÿÿÿ
+lpython:S100"ORename method "__printCard" to match the regular expression ^[a-z_][a-z0-9_]*$.(ŞÆíÌıÿÿÿÿ
+kpython:S100{"TRename method "__getNumberInput" to match the regular expression ^[a-z_][a-z0-9_]*$.(×í–ë
+hpython:S117•"PRename this parameter "strI" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÁ—
+4python:S2772-"Remove this unneeded "pass".(ã‘Û¾
+jpython:S116R"SRename this field "__maxNumber" to match the regular expression ^[_a-z][_a-z0-9]*$.(‚´£©
+qpython:S117n"ZRename this local variable "keepGoing" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÎ©
+qpython:S117("ZRename this local variable "keepGoing" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÎ©
+npython:S116B"RRename this field "__cardSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÅˆïÒÿÿÿÿÿ
+epython:S100h"NRename method "__deckMenu" to match the regular expression ^[a-z_][a-z0-9_]*$.(ş¹®È
+npython:S116e"WRename this field "__m_currentDeck" to match the regular expression ^[_a-z][_a-z0-9]*$.(µ­€“
+spython:S117"\Rename this local variable "cardToPrint" to match the regular expression ^[_a-z][a-z0-9_]*$.(¯„ú
+opython:S117€"WRename this local variable "tmpVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(ã­·
+gpython:S1001"PRename method "__createDeck" to match the regular expression ^[a-z_][a-z0-9_]*$.(©¹ÊÃ
+;python:S2772"Remove this unneeded "pass".(ã‘Û¾8Šõ«­×.
+lpython:S100•"TRename method "__getStringInput" to match the regular expression ^[a-z_][a-z0-9_]*$.(ôÁ—
+upython:S117V"YRename this local variable "deckSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(…ÿöüÿÿÿÿ
+upython:S1175"YRename this local variable "cardSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ö–»”ùÿÿÿÿ
+vpython:S117›"YRename this local variable "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(åòÁªıÿÿÿÿ
+vpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Áû¹Çûÿÿÿÿ
+gpython:S117{"PRename this parameter "maxV" to match the regular expression ^[_a-z][a-z0-9_]*$.(×í–ë
+ppython:S117|"YRename this local variable "usrInput" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦©õ™
+lpython:S116c"PRename this field "deckSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(ƒìÇïøÿÿÿÿ
+fpython:S100™"NRename method "__saveDeck" to match the regular expression ^[a-z_][a-z0-9_]*$.(…Ê‹é
+jpython:S117{"SRename this parameter "printST" to match the regular expression ^[_a-z][a-z0-9_]*$.(×í–ë

@@ -1,0 +1,19 @@
+
+4python:S2772)"Remove this unneeded "pass".(ã‘Û¾
+4python:S2772-"Remove this unneeded "pass".(ã‘Û¾
+lpython:S117"URename this parameter "numberSet" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÕŸÇ÷
+4python:S2772L"Remove this unneeded "pass".(ã‘Û¾
+^python:S1192"FDefine a constant instead of duplicating this literal "FREE!" 3 times.(ò€ñÖ
+_python:S1763)"GDelete this unreachable code or refactor the code to make it reachable.(ã‘Û¾
+gpython:S100+"KRename method "getSize" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡Åîâùÿÿÿÿ
+_python:S1763-"GDelete this unreachable code or refactor the code to make it reachable.(ã‘Û¾
+mpython:S1542"PRename function "printValue" to match the regular expression ^[a-z_][a-z0-9_]*$.(”Ü˜­ùÿÿÿÿ
+upython:S1174"YRename this local variable "arrIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰ß‘”úÿÿÿÿ
+=python:S1481O"%Remove the unused local variable "i".(å¶¸æ
+=python:S14815"%Remove the unused local variable "i".(å¶¸æ
+4python:S2772%"Remove this unneeded "pass".(ã‘Û¾
+`python:S100'"IRename method "getId" to match the regular expression ^[a-z_][a-z0-9_]*$.(–Å‚ý
+gpython:S116""QRename this field "numberSet" to match the regular expression ^[_a-z][_a-z0-9]*$.(æ®åv
+lpython:S116!"PRename this field "cardSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(•ÔÈ¬ùÿÿÿÿ
+fpython:S100N"ORename method "printHeader" to match the regular expression ^[a-z_][a-z0-9_]*$.(«çÉÄ
+=python:S1481C"%Remove the unused local variable "i".(å¶¸æ

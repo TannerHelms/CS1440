@@ -1,0 +1,6 @@
+type: alien
+pixels: 640
+centerx: 0.0
+centery: 0.0
+axislength: 6.0
+iterations: 200

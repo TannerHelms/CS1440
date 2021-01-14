@@ -1,0 +1,5 @@
+
+mpython:S116"QRename this field "numberSet" to match the regular expression ^[_a-z][_a-z0-9]*$.(³Òåùûÿÿÿÿ
+gpython:S116"PRename this field "maxValue" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÂÍØ•
+tpython:S1542"WRename function "generateNumberSet" to match the regular expression ^[a-z_][a-z0-9_]*$.(å¨ºËýÿÿÿÿ
+ppython:S117"TRename this parameter "maxValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(å¨ºËýÿÿÿÿ

@@ -1,0 +1,19 @@
+
+_python:S1763+"GDelete this unreachable code or refactor the code to make it reachable.(ã‘Û¾
+ipython:S1009"MRename method "GetValues" to match the regular expression ^[a-z_][a-z0-9_]*$.(¹‚–Šùÿÿÿÿ
+4python:S27727"Remove this unneeded "pass".(ã‘Û¾
+4python:S2772+"Remove this unneeded "pass".(ã‘Û¾
+_python:S1763/"GDelete this unreachable code or refactor the code to make it reachable.(ã‘Û¾
+_python:S17637"GDelete this unreachable code or refactor the code to make it reachable.(ã‘Û¾
+ppython:S117"TRename this parameter "maxValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(À±ºùÿÿÿÿÿ
+4python:S2772/"Remove this unneeded "pass".(ã‘Û¾
+gpython:S100)"KRename method "getSize" to match the regular expression ^[a-z_][a-z0-9_]*$.(‡Åîâùÿÿÿÿ
+bpython:S1005"KRename method "getNext" to match the regular expression ^[a-z_][a-z0-9_]*$.(ä¥òÙ
+npython:S117"WRename this local variable "ranNum" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬ˆ¥÷
+opython:S117"XRename this local variable "tempVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(Öç¨ 
+4python:S27723"Remove this unneeded "pass".(ã‘Û¾
+jpython:S116
+"SRename this field "__numberSet" to match the regular expression ^[_a-z][_a-z0-9]*$.(þÿÜý
+npython:S116	"RRename this field "__maxValue" to match the regular expression ^[_a-z][_a-z0-9]*$.(’â¬‹ýÿÿÿÿ
+4python:S2772"Remove this unneeded "pass".(ã‘Û¾
+opython:S100"SRename method "timeoutPopulate" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÒôËÿùÿÿÿÿ
